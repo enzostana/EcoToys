@@ -8,4 +8,4 @@ I would like to inform you that website is currently under development. While i'
 
 Prezado visitante,
 
-Gostaria de informar que o site está atualmente em desenvolvimento. Embora esteja entusiasmado em mostrar a você meu progresso, estejam cientes de que haverá mudanças e aprimoramentos significativos.
+Gostaria de informar que o site está atualmente em desenvolvimento. Embora esteja entusiasmado em mostrar a você meu progresso, esteja ciente de que haverá mudanças e aprimoramentos significativos.
